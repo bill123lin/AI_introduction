@@ -1,1 +1,1 @@
-# AI_introduction
+# Introduction to artificial intelligence
